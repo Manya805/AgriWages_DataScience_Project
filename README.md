@@ -7,7 +7,7 @@ It includes **Exploratory Data Analysis (EDA)**, **classification & regression m
 * * * * *
 
 ### 📁 Project Structure
-
+```
 📦 Agricultural_Wages_Project
 ├── agri_wages_08_06_2022.csv # Original dataset
 ├── cleaned_agri_wages.csv # Cleaned and preprocessed dataset
