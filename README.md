@@ -120,12 +120,21 @@ The dataset contains agricultural wage information across different Indian state
 
 -   **EDA:** Distribution plots, wage trends, and correlation heatmaps.
 -   <img width="957" height="571" alt="0" src="https://github.com/user-attachments/assets/60d07988-76dc-42f0-a186-7b339fd1bb8a" />
+<img width="603" height="460" alt="0" src="https://github.com/user-attachments/assets/a52308cc-dde1-4b69-8285-b5fdb542acc1" />
+
 
 -   **Regression & Classification:** Model performance metrics, accuracy reports, and confusion matrices.
+-   <img width="1009" height="552" alt="unnamed" src="https://github.com/user-attachments/assets/e4bac2b4-e585-45af-a484-1be515457ce2" />
+<img width="617" height="473" alt="unnamed" src="https://github.com/user-attachments/assets/c9fc40d4-3afc-4108-9edc-e20bb7b8d828" />
+<img width="575" height="384" alt="unnamed" src="https://github.com/user-attachments/assets/c5bb4ef2-c2bf-4bd9-87c7-071640560389" />
 
 -   **Forecasting:** Future wage predictions plotted against actual trends.
+-   <img width="1350" height="600" alt="unnamed" src="https://github.com/user-attachments/assets/c7478587-5049-48eb-975e-38397e9378c4" />
+<img width="489" height="554" alt="unnamed" src="https://github.com/user-attachments/assets/059ad9aa-aad6-4389-adc1-984fa0361fa6" />
+
 
 -   **Dashboard:** Interactive visualizations and model training modules.
+<img width="1731" height="822" alt="unnamed" src="https://github.com/user-attachments/assets/83a63ac7-d871-4c07-b606-792dd38990dd" />
 
 * * * * *
 
