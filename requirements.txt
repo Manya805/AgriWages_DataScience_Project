@@ -1,0 +1,25 @@
+# Core
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning
+tensorflow
+keras
+
+# Forecasting
+prophet
+statsmodels
+
+# App / Visualization
+streamlit
+
+# Utilities
+datetime
+io
+warnings
