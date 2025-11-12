@@ -24,6 +24,15 @@ It includes **Exploratory Data Analysis (EDA)**, **classification & regression m
 ```
 * * * * *
 
+### 📂 Dataset Link
+
+Access the dataset used in this project here:  
+[DBT District-Wise Performance — India Data Portal](https://indiadataportal.com/p/direct-benefit-transfer/r/cabinet-dbtbharat_dbt_performance-dt-ot-aaa)
+
+> *Note:* This dataset contains district-wise direct benefit transfer (DBT) performance metrics across India.  
+> It was obtained from the India Data Portal, under the “Direct Benefit Transfer” category.
+
+
 ### 🚀 Features
 
 -   **Comprehensive EDA:** Explore agricultural wage trends by state, gender, and labour type.
