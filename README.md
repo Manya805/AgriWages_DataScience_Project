@@ -9,9 +9,9 @@ It includes **Exploratory Data Analysis (EDA)**, **classification & regression m
 ### 📁 Project Structure
 ```
 📦 Agricultural_Wages_Project
-├── agri_wages_08_06_2022.csv # Original dataset
-├── cleaned_agri_wages.csv # Cleaned and preprocessed dataset
-├── app.py # Streamlit dashboard app
+├── agri_wages_08_06_2022.csv       # Original dataset
+├── cleaned_agri_wages.csv          # Cleaned and preprocessed dataset
+├── app.py                          # Streamlit dashboard app
 ├── EDA_AgriWages (2).ipynb # Exploratory Data Analysis
 ├── EDA_AgriWages_KNN.ipynb # K-Nearest Neighbors classifier
 ├── EDA_AgriWages_MLR.ipynb # Multiple Linear Regression
