@@ -119,6 +119,7 @@ The dataset contains agricultural wage information across different Indian state
 ### 🖥️ Output Preview
 
 -   **EDA:** Distribution plots, wage trends, and correlation heatmaps.
+-   <img width="957" height="571" alt="0" src="https://github.com/user-attachments/assets/60d07988-76dc-42f0-a186-7b339fd1bb8a" />
 
 -   **Regression & Classification:** Model performance metrics, accuracy reports, and confusion matrices.
 
