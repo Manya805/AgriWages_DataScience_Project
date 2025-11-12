@@ -12,7 +12,7 @@ It includes **Exploratory Data Analysis (EDA)**, **classification & regression m
 ├── agri_wages_08_06_2022.csv              # Original dataset
 ├── cleaned_agri_wages.csv                 # Cleaned and preprocessed dataset
 ├── app.py                                 # Streamlit dashboard app
-├── EDA_AgriWages.ipynb                # Exploratory Data Analysis
+├── EDA_AgriWages.ipynb                    # Exploratory Data Analysis
 ├── EDA_AgriWages_KNN.ipynb                # K-Nearest Neighbors classifier
 ├── EDA_AgriWages_MLR.ipynb                # Multiple Linear Regression
 ├── EDA_AgriWages_SVM_Classification.ipynb # SVM classification
